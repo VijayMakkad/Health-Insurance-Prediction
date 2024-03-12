@@ -48,7 +48,7 @@ git clone https://github.com/VijayMakkad/Health-Insurance-Prediction
 cd health-insurance-prediction
 ```
 
-3. Open the Jupyter Notebook file `Health_Insurance_Prediction.ipynb`:
+3. Open the Jupyter Notebook file `insurance_prediction_LinearR.ipynb`:
 
 ```
 jupyter notebook Health_Insurance_Prediction.ipynb
